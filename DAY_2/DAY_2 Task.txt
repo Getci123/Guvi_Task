@@ -157,4 +157,6 @@ In this example:
 ✨ Conclusion
 
 
-In summary, the `window` and `document` objects are integral parts of web development, each with distinct roles. The `window` object provides a global context and methods for controlling the browser, while the `document` object allows for detailed manipulation of the web page’s content and structure. Understanding their differences and how to use them effectively is crucial for creating dynamic and interactive web applications.
+In summary, the `window` and `document` objects are integral parts of web development, each with distinct roles.
+The `window` object provides a global context and methods for controlling the browser, while the `document` object allows for detailed manipulation of the web page’s content and structure.
+Understanding their differences and how to use them effectively is crucial for creating dynamic and interactive web applications.
