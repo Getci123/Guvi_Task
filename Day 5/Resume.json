@@ -1,0 +1,24 @@
+{
+  "name": "Getciya Stalin",
+  "contact": {
+    "email": "getciya7gmail.com",
+    "LinkedIn": "https://www.linkedin.com/in/getciya-stalin/"
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Computer Application",
+      "year": 2024
+    }
+  ],
+  "skills": [
+    "java",
+    "Python",
+    "HTML",
+    "JavaScript",
+    "CSS",
+    "PHP",
+    "MySql",
+    "ASP.NET(C#)"
+  ],
+  "Certifications": ["Python", "UI/UX", "Webdevelopment & Hosting"]
+}
