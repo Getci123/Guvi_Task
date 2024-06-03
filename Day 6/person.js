@@ -11,8 +11,8 @@ class Person {
     console.log(`gender : ${this.gender}`);
   }
 }
-let person = new Person("arun", 20, "male");
-let person1 = new Person("karthik", 20, "male");
+let person = new Person("getciya", 20, "female");
+let person1 = new Person("stalin", 20, "female");
 
 console.log("details:");
 person.details();
